@@ -36,11 +36,11 @@ Welcome to my GitHub profile! I'm a passionate and experienced **Senior Web Appl
 
 ## 🌐 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/laoti-sok-ab510b192/))
+- [LinkedIn]([https://www.linkedin.com/in/laoti-sok-ab510b192/])
 
 ## 📜 Owner of libray (nuget package)
 
-- [ORM Naming Conversion]([https://yourwebsite.com/first-blog-post](https://www.nuget.org/packages/LaotiSok.ModelBuilder.NamingCaseToSpecificCase/))
+- [ORM Naming Conversion]([https://www.nuget.org/packages/LaotiSok.ModelBuilder.NamingCaseToSpecificCase/])
 
 ## 💬 Let's Chat!
 
